@@ -3,5 +3,5 @@ const object = {
   password: "521541",
 };
 
-const name = object.name;
+const name = object.name.toLowerCase();
 const password = password.name;
